@@ -19,3 +19,6 @@ POWER QUERY EDITOR
 =ColumnTypes(#"Added Conditional Column1",{{"Age order ", Int64.Type}})
 
 ```
+
+
+![](AFORM1.PNG)
