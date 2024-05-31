@@ -5,3 +5,6 @@ An analysis on trainees in a data analytics boot camp, showing the gender, emplo
 
 ## Data Tools
 Power BI
+
+## Data Source
+online service [google sheet](https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
