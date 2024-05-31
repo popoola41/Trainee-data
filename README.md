@@ -16,3 +16,6 @@ online service [google sheet](https://docs.google.com/spreadsheets/d/1slHSvA-UtO
 ```
 POWER QUERY EDITOR
 
+=ColumnTypes(#"Added Conditional Column1",{{"Age order ", Int64.Type}})
+
+```
