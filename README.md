@@ -8,4 +8,11 @@ Power BI
 
 ## Data Source
 online service [google sheet](https://docs.google.com/spreadsheets/d/1slHSvA-UtOkseFsfuJJZiOL222vusWt6xEbFOXYxElQ/edit#gid=1248562073)
+
+
 ![](AFORM.PNG)
+
+
+```
+POWER QUERY EDITOR
+
